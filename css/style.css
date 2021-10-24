@@ -952,4 +952,10 @@ nav .hamburger {
     width: 80%;
   }
 }
+
+@media (min-width: 1400px) {
+  .menu_item {
+    padding-right: 43px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
